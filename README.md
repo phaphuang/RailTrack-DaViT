@@ -1,4 +1,4 @@
-# RailTrack-DaViT
+# RailTrack-DaViT: A Vision Transformer-Based Approach for Automated Railway Track Defect Detection
 
 A deep learning model for rail track defect detection using the DaViT (Data-efficient Vision Transformer) architecture.
 
